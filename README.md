@@ -1,4 +1,5 @@
 <div align="center">   
+<img src="figure/ADR_logo.png" alt="inference.jpg" width="200">
   
 # SafeDrive: Fine-Grained Safety Reasoning for End-to-End Driving in a Sparse World
 
@@ -22,14 +23,14 @@
 
 ## 📽️ Framework
 <p align="center">
-<img src="Intro.png" alt="inference.jpg">
+<img src="figure/Intro.png" alt="inference.jpg">
 </p>
 
 **Comparison of end-to-end planning paradigms and the SafeDrive framework.** (a) Dense world models provide limited modeling of instance-centric interactions, whereas sparse world models capture them effectively. (b) Scene-level safety evaluation is coarse, while fine-grained evaluation identifies the specific agents and timestamps associated with potential risks. (c) SafeDrive leverages a sparse world model and fine-grained safety reasoning to generate safe trajectories.
 
 ## ⚡ Main Result
 <p align="center">
-<img src="Main_Result_NAVSIM.png" alt="inference.jpg" width="600">
+<img src="figure/Main_Result_NAVSIM.png" alt="inference.jpg" width="600">
 </p>
 
 ## 📃 Bibtex
