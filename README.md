@@ -20,6 +20,23 @@
 </br>
 
 
+## 📽️ Contribution
+- [2026/03]: We will release the full code & checkpoints of SafeDrive.
+- [2026/02]: SafeDrive is accepted at CVPR 2026. 🔥
+</br>
+
+
+<p align="center">
+<img src="Intro.png" alt="inference.jpg">
+</p>
+
+**Comparison of end-to-end planning paradigms and the SafeDrive framework.** (a) Dense world models provide limited modeling of instance-centric interactions, whereas sparse world models capture them effectively. (b) Scene-level safety evaluation is coarse, while fine-grained evaluation identifies the specific agents and timestamps associated with potential risks. (c) SafeDrive leverages a sparse world model and fine-grained safety reasoning to generate safe trajectories.
+
+## ⚡ Main Result
+<p align="center">
+<img src="Main_Result_NAVSIM.png" alt="inference.jpg" width="600">
+</p>
+
 ## 📃 Bibtex
 
 If you find this work useful for your research or projects, please consider citing the following BibTeX entry.
