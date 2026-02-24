@@ -20,7 +20,7 @@
 </br>
 
 
-## 📽️ Contribution
+## 📽️ Framework
 <p align="center">
 <img src="Intro.png" alt="inference.jpg">
 </p>
