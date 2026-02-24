@@ -4,7 +4,7 @@
 
 [**Jungho Kim**](https://scholar.google.com/citations?user=9wVmZ5kAAAAJ&hl=ko), **Jiyong Oh**, **Seunghoon Yu**, **Hongjae Shin**, **Donghyuk Kwak**, [**Jun Won Choi**](https://scholar.google.com/citations?user=IHH2PyYAAAAJ&hl=ko&oi=ao)  
 
-### **Seoul National University, Republic of Korea**
+### **Seoul National University, ADR Lab**
 
 ### **CVPR 2026**
 
