@@ -21,11 +21,6 @@
 
 
 ## 📽️ Contribution
-- [2026/03]: We will release the full code & checkpoints of SafeDrive.
-- [2026/02]: SafeDrive is accepted at CVPR 2026. 🔥
-</br>
-
-
 <p align="center">
 <img src="Intro.png" alt="inference.jpg">
 </p>
