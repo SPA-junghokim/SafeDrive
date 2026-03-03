@@ -41,7 +41,7 @@ If you find this work useful for your research or projects, please consider citi
 @inproceedings{safedrive,
   title={SafeDrive: Fine-Grained Safety Reasoning for End-to-End Driving in a Sparse World},
   author={Kim, Jungho and Oh, Jiyong and Yu, Seunghoon and Shin, Hongjae and Kwak, Donghyuk and Choi, Jun Won},
-  journal={arXiv preprint arXiv:2602.18887},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2026}
 }
 ```
