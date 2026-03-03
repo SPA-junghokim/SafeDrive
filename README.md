@@ -9,7 +9,8 @@
 
 ### **CVPR 2026**
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2602.18887)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2602.18887)
+[![arXiv](https://img.shields.io/badge/Project-Page-<COLOR>.svg)](https://spa-junghokim.github.io/SafeDrive-Page/)
 
 
 </div>
