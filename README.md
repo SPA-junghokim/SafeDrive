@@ -1,9 +1,12 @@
 <div align="center">   
-<img src="figure/ADR_logo.png" alt="inference.jpg" width="200">
+<img src="figure/SafeDrive_logo.png" alt="SafeDrive logo" width="550"><br><br>
   
 # SafeDrive: Fine-Grained Safety Reasoning for End-to-End Driving in a Sparse World
 
 [**Jungho Kim**](https://scholar.google.com/citations?user=9wVmZ5kAAAAJ&hl=ko), **Jiyong Oh**, [**Seunghoon Yu**](https://scholar.google.com/citations?user=RJnWLIUAAAAJ&hl=ko&authuser=1&oi=ao), **Hongjae Shin**, **Donghyuk Kwak**, [**Jun Won Choi**](https://scholar.google.com/citations?user=IHH2PyYAAAAJ&hl=ko&oi=ao)  
+
+
+<img src="figure/ADR_logo.png" alt="inference.jpg" width="200">
 
 ### **Seoul National University, ADR Lab**
 
