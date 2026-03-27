@@ -6,9 +6,9 @@
 [**Jungho Kim**](https://scholar.google.com/citations?user=9wVmZ5kAAAAJ&hl=ko), **Jiyong Oh**, [**Seunghoon Yu**](https://scholar.google.com/citations?user=RJnWLIUAAAAJ&hl=ko&authuser=1&oi=ao), **Hongjae Shin**, **Donghyuk Kwak**, [**Jun Won Choi**](https://scholar.google.com/citations?user=IHH2PyYAAAAJ&hl=ko&oi=ao)  
 
 
-<img src="figure/ADR_logo.png" alt="inference.jpg" width="200">
+<!-- <img src="figure/ADR_logo.png" alt="inference.jpg" width="200"> -->
 
-### **Seoul National University, ADR Lab**
+#### **Seoul National University, ADR Lab**
 
 ### **CVPR 2026**
 
