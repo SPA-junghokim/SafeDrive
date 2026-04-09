@@ -10,7 +10,7 @@
 
 ### **Seoul National University, ADR Lab**
 
-### **CVPR 2026**
+### **CVPR 2026 Highlight**
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2602.18887)
 [![arXiv](https://img.shields.io/badge/Project-Page-<COLOR>.svg)](https://spa-junghokim.github.io/SafeDrive-Page/)
@@ -20,8 +20,9 @@
 
 
 ## 🔔 News
+- [2026/04]: SafeDrive is awarded as CVPR 2026 Highlight! ⭐
 - [2026/03]: We will release the full code & checkpoints of SafeDrive.
-- [2026/02]: SafeDrive is accepted at CVPR 2026. 🔥
+- [2026/02]: SafeDrive is accepted at CVPR 2026! 🔥
 </br>
 
 
