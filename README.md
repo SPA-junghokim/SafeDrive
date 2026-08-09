@@ -49,7 +49,7 @@ paper, plus our reproduction of SafeDrive from this repository.
 | **SafeDrive\*** | 99.5 | 98.8 | 97.1 | 84.8 | 99.5 | **91.6** |
 
 \* reproduced with this release: `test.sh` with the shipped phase 3 checkpoint
-and score weights (DDC 97.8, not a PDMS component).
+and score weights.
 
 
 ## ⚡ Getting Started
