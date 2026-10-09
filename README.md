@@ -3,7 +3,7 @@
 
 # SafeDrive: Fine-Grained Safety Reasoning for End-to-End Driving in a Sparse World
 
-[**Jungho Kim**](https://scholar.google.com/citations?user=9wVmZ5kAAAAJ&hl=en), [**Jiyong Oh**](https://scholar.google.com/citations?hl=en&user=C10ysNMAAAAJ), [**Seunghoon Yu**](https://scholar.google.com/citations?user=RJnWLIUAAAAJ&hl=en&authuser=1&oi=ao), [**Hongjae Shin**](https://scholar.google.com/citations?user=4zQMBBAAAAAJ&hl=en&oi=ao), **Donghyuk Kwak**, [**Jun Won Choi**](https://scholar.google.com/citations?user=IHH2PyYAAAAJ&hl=en&oi=ao)
+[**Jungho Kim**](https://kimjh7669.github.io/), [**Jiyong Oh**](https://scholar.google.com/citations?hl=en&user=C10ysNMAAAAJ), [**Seunghoon Yu**](https://scholar.google.com/citations?user=RJnWLIUAAAAJ&hl=en&authuser=1&oi=ao), [**Hongjae Shin**](https://scholar.google.com/citations?user=4zQMBBAAAAAJ&hl=en&oi=ao), **Donghyuk Kwak**, [**Jun Won Choi**](https://scholar.google.com/citations?user=IHH2PyYAAAAJ&hl=en&oi=ao)
 
 #### **Seoul National University, ADR Lab**
 
